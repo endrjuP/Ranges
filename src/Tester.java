@@ -6,7 +6,6 @@ public class Tester {
 
 	@Test
 	public void intervalsTest(){
-        Range oper = new Range();
         Range range1 = new Range(1, 100);
         Range range2 = new Range(20,80);
         Range range3 = new Range(40,60);
